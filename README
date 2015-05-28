@@ -1,0 +1,4 @@
+对Apache的HttpClient 4.x进行封装。
+主类是：
+    HttpOperation
+提供get、post方法，模拟发送get、post请求，得到响应源代码
